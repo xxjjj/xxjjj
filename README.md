@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xxjjj
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on I do not know 
-- 📫 How to reach me via 121212@gmail.com
+- 🌱 I’m currently  a student in Information Management
+- 📫 How to reach me via dc.jiang@qq.com
 
 ### Please give me score! ###
 
