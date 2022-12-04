@@ -3,7 +3,6 @@
 - 🌱 I’m currently  a student in Information Management
 - 📫 How to reach me via dc.jiang@qq.com
 
-### Please give me score! ###
 
 <!---
 xxjjj/xxjjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
